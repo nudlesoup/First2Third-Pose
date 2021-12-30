@@ -10,6 +10,8 @@ Links to Code and Dataset will be updated soon!
 ### [arXiv] [Code & Data]
 
 ## Figure
+![alt text](https://github.com/nudlesoup/First2Third/blob/main/SelfSupervisedModel1.1.png?raw=true)
+
 
 ## Results
 
