@@ -7,7 +7,7 @@ The key idea is to leverage high-level features linking first- and third-views i
 Experimental results demonstrate that the joint multi-view embedded space learned with our dataset is useful to extract discriminatory features from arbitrary single-view egocentric videos, leading to significant improvement of egocentric 3D body pose estimation performance for three supervised state-of-the-art approaches.
 
 Links to Code and Dataset will be updated soon!
-### [arXiv] [Code & Data]
+### [ArXiv] [Code & Data]
 
 ## Figure
 ![alt text](https://github.com/nudlesoup/First2Third/blob/main/SelfSupervisedModel1.1.png?raw=true)
