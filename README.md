@@ -16,7 +16,8 @@ If you use First2Third in your research or wish to refer to the baseline results
 
 ```BibTeX
 @inproceedings{ameya_2022_First2Third,
-  author =       {Ameya Dhamanaskar, Mariella Dimiccoli, Enric Corona, Albert Pumarola, Francesc Moreno-Noguer},
+  author =       {Ameya Dhamanaskar, Mariella Dimiccoli, Enric Corona, 
+                  Albert Pumarola, Francesc Moreno-Noguer},
   title =        {Enhancing Egocentric 3D Pose Estimation with Third Person Views},
   year =         {2022}
 }
