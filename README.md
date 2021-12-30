@@ -5,8 +5,13 @@ In this Project, we propose a novel approach to enhance the 3D body pose estimat
 The key idea is to leverage high-level features linking first- and third-views in a joint embedding space. To learn such embedding space we introduce First2Third, a new paired synchronized dataset of nearly 2,000 videos depicting human activities captured from both a first and a third view perspective. We explicitly consider spatial- and motion-domain features,  combined using a semi-Siamese architecture trained in a self-supervised fashion.
 
 Experimental results demonstrate that the joint multi-view embedded space learned with our dataset is useful to extract discriminatory features from arbitrary single-view egocentric videos, leading to significant improvement of egocentric 3D body pose estimation performance for three supervised state-of-the-art approaches.
-The dataset, the code and pre-trained model will be made public upon acceptance.
 
+Links to Code and Dataset will be updated soon!
+### [arXiv] [Code & Data]
+
+## Figure
+
+## Results
 
 ## Authors
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
