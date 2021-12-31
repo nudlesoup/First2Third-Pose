@@ -9,20 +9,24 @@ Experimental results demonstrate that the joint multi-view embedded space learne
 Links to Code and Dataset will be updated soon!
 ### [ArXiv] [Code & Data]
 
-## Figure
-![alt text](https://github.com/nudlesoup/First2Third/blob/main/SelfSupervisedModel1.1.png?raw=true)
+## Approach Overview
+Our model uses a semi-Siamese architecture to learn to detect if a pair of first- and third-view videos of the First2Third paired source dataset are syncronized or not, by minimizing a contrastive loss green arrows. %Each stream of the semi-Siamese network takes as inputs stacked RGB and optical flow frames.  
 
+This pretext task leads to learn a joint embedding space, where the gap between the first-view and third-view worlds is minimized. The so learned joint embedding space can in principle be leveraged by any supervised method for 3D egopose estimation on a target dataset, without a need for domain adaptation. At both train time brown arrows and test time blue arrows, the semi-Siamese network is used for feature projection onto the learned joint embedded space. z is 64-
+dimensional vector, obtained once removed the softmax layer of the Siamese network pre-trained with our dataset.
+
+![alt text](https://github.com/nudlesoup/First2Third/blob/main/SelfSupervisedModel1.1.png?raw=true)
 
 ## Results
 
 ## Authors
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
 
-## Citing First2Third
+### Reference
 If you use First2Third in your research or wish to refer to the baseline results published in the paper, please use the following BibTeX entry.
 
 ```BibTeX
-@inproceedings{ameya_2022_First2Third,
+@article{ameya_2022_First2Third,
   author =       {Ameya Dhamanaskar, Mariella Dimiccoli, Enric Corona, 
                   Albert Pumarola, Francesc Moreno-Noguer},
   title =        {Enhancing Egocentric 3D Pose Estimation with Third Person Views},
