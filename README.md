@@ -4,7 +4,7 @@
 In this paper, we propose a novel approach to enhance the 3D body pose estimation of a person computed from videos captured from a single wearable camera. The key idea is to leverage high-level features linking first- and third-views in a joint embedding space. To learn such embedding space we introduce First2Third-Pose, a new paired synchronized dataset of nearly 2,000 videos depicting human activities captured from both first- and third-view perspectives. We explicitly consider spatial- and motion-domain features, combined using a semi-Siamese architecture trained in a self-supervised fashion. Experimental results demonstrate that the joint multi-view embedded space learned with our dataset is useful to extract discriminatory features from arbitrary single-view egocentric videos, without needing domain adaptation nor knowledge of camera parameters. We achieve significant improvement of egocentric 3D body pose estimation performance on two unconstrained datasets, over three supervised state-of-the-art approaches. Our dataset and code will be available for research purposes.
 
 Links to Code and Dataset will be updated soon!
-### [arXiv : ](https://arxiv.org/abs/2201.02017#) [![report](https://img.shields.io/badge/arXiv-2201.02017-b31b1b.svg)](https://arxiv.org/abs/2201.02017#)
+### [arXiv : ](https://arxiv.org/pdf/2201.02017.pdf) [![report](https://img.shields.io/badge/arXiv-2201.02017-b31b1b.svg)](https://arxiv.org/abs/2201.02017#)
 [Code & Data]
 
 ## Approach Overview
