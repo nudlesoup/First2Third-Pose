@@ -21,10 +21,10 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
 
 ### Reference
-If you use First2Third in your research or wish to refer to the baseline results published in the paper, please use the following BibTeX entry.
+If you use First2Third-Pose in your research or wish to refer to the baseline results published in the paper, please use the following BibTeX entry.
 
 ```BibTeX
-@article{ameya_2022_First2Third,
+@article{ameya_2022_First2Third-Pose,
   author =       {Ameya Dhamanaskar, Mariella Dimiccoli, Enric Corona, 
                   Albert Pumarola, Francesc Moreno-Noguer},
   title =        {Enhancing Egocentric 3D Pose Estimation with Third Person Views},
