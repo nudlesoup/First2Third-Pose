@@ -34,9 +34,9 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
  
  <table>
   <tr>
-    <td>Shen park egoview</td>
-     <td>Shen park frontview</td>
-     <td>Shen park sideview</td>
+    <td>Shahrukh outdoor egoview</td>
+     <td>Shahrukh outdoor frontview</td>
+     <td>Shahrukh outdoor sideview</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_ego.gif" width=300 height=250></td>
