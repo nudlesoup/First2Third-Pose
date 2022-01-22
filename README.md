@@ -17,6 +17,9 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
 
 ## Results
 ![alt text](https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_ego.gif)
+![alt text](https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_front.gif)
+
+
 
 ## Authors
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
