@@ -39,9 +39,9 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
      <td>Shahrukh outdoor sideview</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_ego.gif" width=300 height=250></td>
-    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_front.gif" width=300 height=250></td>
-    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_side.gif" width=300 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/shahrukh_box_ego.gif" width=300 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/shahrukh_box_front.gif" width=300 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/shahrukh_box_side.gif" width=300 height=250></td>
   </tr>
  </table>
  
