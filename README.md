@@ -15,12 +15,22 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
 
 ![alt text](https://github.com/nudlesoup/First2Third/blob/main/SelfSupervisedModel1.1.png?raw=true)
 
-## Results
-![alt text](https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_ego.gif)
-![alt text](https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_front.gif)
-
-
-
+## Dataset Examples
+<table>
+  <tr>
+    <td>Enric Lab Egoview</td>
+     <td>Enric Lab Frontview</td>
+     <td>Enric Lab Sideview</td>
+     <td>Enric Lab Toptview</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_ego.gif" width=235 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_front.gif" width=235 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_side.gif" width=235 height=250></td>
+    <td><img src="https://github.com/nudlesoup/First2Third/blob/main/enric_basketball_top.gif" width=235 height=250></td>
+  </tr>
+ </table>
+ 
 ## Authors
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
 
