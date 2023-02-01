@@ -54,10 +54,16 @@ dimensional vector, obtained once removed the softmax layer of the Siamese netwo
 If you use First2Third-Pose in your research or wish to refer to the baseline results published in the paper, please use the following BibTeX entry.
 
 ```BibTeX
-@article{ameya_2022_First2Third-Pose,
-  author =       {Ameya Dhamanaskar, Mariella Dimiccoli, Enric Corona, 
-                  Albert Pumarola, Francesc Moreno-Noguer},
-  title =        {Enhancing Egocentric 3D Pose Estimation with Third Person Views},
-  year =         {2022}
+@article{DHAMANASKAR2023109358,
+title = {Enhancing egocentric 3D pose estimation with third person views},
+journal = {Pattern Recognition},
+volume = {138},
+pages = {109358},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109358},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323000596},
+author = {Ameya Dhamanaskar and Mariella Dimiccoli and Enric Corona and Albert Pumarola and Francesc Moreno-Noguer},
+keywords = {3D pose estimation, Self-supervised learning, Egocentric vision}
 }
 ```
