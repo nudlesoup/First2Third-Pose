@@ -1,6 +1,7 @@
 # Enhancing Egocentric 3D Pose Estimation with Third Person Views
 
 ## Abstract
+
 We propose a novel approach to enhance the 3D body pose estimation of a person computed from videos captured from a single wearable camera. 
 The  main technical contribution consists of leveraging high-level features linking first- and third-views in a joint embedding space. To learn such embedding space we introduce First2Third-Pose, a new paired synchronized dataset of nearly 2,000 videos depicting human activities captured from both first- and third-view perspectives. We explicitly consider spatial- and motion-domain features,  combined using a semi-Siamese architecture trained in a self-supervised fashion.
 Experimental results demonstrate that the joint multi-view embedded space learned with our dataset is useful to extract discriminatory features from arbitrary single-view egocentric videos, with no need to perform any sort of domain adaptation or knowledge of camera parameters. An extensive evaluation demonstrates that we achieve significant improvement in egocentric 3D body pose estimation performance on two unconstrained datasets, over three supervised state-of-the-art approaches. Our dataset and code will be available for research purposes.
