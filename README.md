@@ -8,6 +8,9 @@ Experimental results demonstrate that the joint multi-view embedded space learne
 
 Links to Code and Dataset will be updated soon!
 ### [arXiv : ](https://arxiv.org/pdf/2201.02017.pdf) [![report](https://img.shields.io/badge/arXiv-2201.02017-b31b1b.svg)](https://arxiv.org/abs/2201.02017#)
+
+### [Pattern Recognition] (https://doi.org/10.1016/j.patcog.2023.109358)
+
 [Code] Coming SOON!
 
 [Data](https://github.com/nudlesoup/First2Third-Pose/tree/main/data)
