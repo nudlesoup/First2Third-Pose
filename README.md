@@ -8,7 +8,9 @@ Experimental results demonstrate that the joint multi-view embedded space learne
 
 Links to Code and Dataset will be updated soon!
 ### [arXiv : ](https://arxiv.org/pdf/2201.02017.pdf) [![report](https://img.shields.io/badge/arXiv-2201.02017-b31b1b.svg)](https://arxiv.org/abs/2201.02017#)
-[Code & Data]
+[Code]
+
+[Data](https://github.com/nudlesoup/First2Third-Pose/tree/main/data)
 
 ## Approach Overview
 Our model uses a semi-Siamese architecture to learn to detect if a pair of first- and third-view videos of the First2Third paired source dataset are syncronized or not, by minimizing a contrastive loss green arrows. %Each stream of the semi-Siamese network takes as inputs stacked RGB and optical flow frames.  
