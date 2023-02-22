@@ -27,6 +27,8 @@ The data is currently split into 7 parts which can be downloaded using these lin
 https://www.dropbox.com/sh/lk1rhqzn38zk6ne/AADrIYIaObgAKdrtMkt3aaMTa?dl=0
  ```
 
+ More about Code, Siamese Model and how to use organize this data for training/testing COMING SOON!
+
 ## Authors
 [Ameya Dhamanaskar](https://nudlesoup.github.io/), [Mariella Dimiccoli](https://www.iri.upc.edu/people/mdimiccoli/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Albert Pumarola](https://www.albertpumarola.com/), [Francesc Moreno Noguer](http://www.iri.upc.edu/people/fmoreno/).
 
