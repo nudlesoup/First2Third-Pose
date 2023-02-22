@@ -1,4 +1,4 @@
-First2Third Dataset
+## First2Third Dataset
 
 First2Third Dataset contains synchronized frames/videos with Ground truth from Front, Side and Ego-centric view. We also provide Top views for a few of the activities performed in a specific location for 15 people we record.  This is large dataset of short videos covering a variety of human pose types and including multi-third-person-views in addition to first-person view.
 
