@@ -1,19 +1,26 @@
 First2Third Dataset
 
-First3Third Dataset contains synchronized frames/videos with Ground truth from Front, Side and Egocentric view. We also provide Top views for a few of the activities performed in a specific location for 15 people we record.  This is large dataset of short videos covering a variety of human pose types and including multi-third-person-views in addition to first-person view.
+First2Third Dataset contains synchronized frames/videos with Ground truth from Front, Side and Ego-centric view. We also provide Top views for a few of the activities performed in a specific location for 15 people we record.  This is large dataset of short videos covering a variety of human pose types and including multi-third-person-views in addition to first-person view.
 
-DATA can be downloaded from:
 
-Since the orginal dataset is huge. We divide the dataset into 7 parts for easier downloads.  Part 1-6 has total data of 2 people each(every video acvitiy is recorded with a single person) and 7 has data for 3 people. Each Part should be around 25 Gbs in size and should contain Egoview,Frontview, Sideview, GT and Topview folders.
+Since the orginal dataset is huge. We divide the dataset into 7 parts for easier downloads.  Part 1-6 has total data of 2 people each(every video acvitiy is recorded with a single person) and 7 has data for 3 people. Each Part should be around 25 Gbs in size and should contain Egoview, Frontview, Sideview, GT and Topview folders.
 
-The data is currently split into 7 parts which can be downloadede using these links:
+The data is currently split into 7 parts which can be downloaded using these links:
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part1.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part2.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part3.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part4.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part5.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part6.tar.gz
+
  https://cv.iri.upc-csic.es/Dataset/EgoPose/First2Third-Part7.tar.gz
+
 
  Alternative temporary link with 7 parts:
  ```
