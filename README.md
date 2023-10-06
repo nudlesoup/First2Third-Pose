@@ -16,6 +16,8 @@ Links to Code will be updated soon!
 
 ### [Data](https://github.com/nudlesoup/First2Third-Pose/tree/main/data)
 
+### [Trained Siamese Model](https://www.dropbox.com/scl/fi/4nzf6amtch7cn5nr5cpq7/Final-Siamese-Model.ckpt?rlkey=9y48kmttjcvyt284cd638dt8c&dl=0)
+
 ## Approach Overview
 Our model uses a semi-Siamese architecture to learn to detect if a pair of first- and third-view videos of the First2Third paired source dataset are syncronized or not, by minimizing a contrastive loss green arrows. %Each stream of the semi-Siamese network takes as inputs stacked RGB and optical flow frames.  
 
