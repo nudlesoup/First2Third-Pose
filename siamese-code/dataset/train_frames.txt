@@ -1,0 +1,1987 @@
+ameya_basketball_lab	209
+ameya_basketball_outdoor1	150
+ameya_basketball_outdoor2	119
+ameya_bending_indoor2	81
+ameya_bending_lab	72
+ameya_bending_outdoor1	60
+ameya_bending_outdoor2	58
+ameya_bowlingright_indoor2	90
+ameya_bowlingright_lab	97
+ameya_bowlingright_outdoor1	75
+ameya_bowlingright_outdoor2	45
+ameya_boxing_indoor2	335
+ameya_boxing_lab	358
+ameya_boxing_outdoor1	219
+ameya_boxing_outdoor2	253
+ameya_clapping_indoor2	263
+ameya_clapping_lab	261
+ameya_clapping_outdoor1	215
+ameya_clapping_outdoor2	242
+ameya_closebox_lab	84
+ameya_closelaptop_lab	43
+ameya_crouching_lab	99
+ameya_crouching_outdoor1	79
+ameya_crouching_outdoor2	98
+ameya_crouching2_lab	158
+ameya_exercise_indoor2	452
+ameya_exercise_lab	338
+ameya_exercise_outdoor1	220
+ameya_exercise_outdoor2	237
+ameya_hopping_indoor2	287
+ameya_hopping_lab	322
+ameya_hopping_outdoor1	170
+ameya_hopping_outdoor2	178
+ameya_hopping2_outdoor1	235
+ameya_hopping2_outdoor2	187
+ameya_jogging_indoor2	506
+ameya_jogging_lab	371
+ameya_jogging_outdoor1	472
+ameya_jogging_outdoor2	361
+ameya_jumping_indoor2	269
+ameya_jumping_lab	228
+ameya_jumping_outdoor1	227
+ameya_jumping_outdoor2	239
+ameya_kneelingleft_indoor2	72
+ameya_kneelingleft_lab	108
+ameya_kneelingleft_outdoor1	55
+ameya_kneelingleft_outdoor2	67
+ameya_kneelingright_indoor2	73
+ameya_kneelingright_lab	74
+ameya_kneelingright_outdoor1	75
+ameya_kneelingright_outdoor2	65
+ameya_lyingoncouch_lab	175
+ameya_movingobject_lab	128
+ameya_movingobject_outdoor1	132
+ameya_movingobject_outdoor2	182
+ameya_openbox_lab	165
+ameya_openlaptop_lab	109
+ameya_pickobjectleft_indoor2	122
+ameya_pickobjectleft_lab	106
+ameya_pickobjectleft_outdoor1	85
+ameya_pickobjectleft_outdoor2	114
+ameya_pickobjectright_indoor2	100
+ameya_pickobjectright_lab	101
+ameya_pickobjectright_outdoor1	74
+ameya_pickobjectright_outdoor2	95
+ameya_pickupbowl_lab	122
+ameya_pushup_indoor2	240
+ameya_pushup_lab	248
+ameya_pushup_outdoor1	216
+ameya_pushup_outdoor2	242
+ameya_putdownbowl_lab	79
+ameya_reading_lab	478
+ameya_rollingchair_lab	418
+ameya_rotating_indoor2	286
+ameya_rotating_lab	267
+ameya_rotating_outdoor1	221
+ameya_rotating_outdoor2	158
+ameya_sitonchair_lab	49
+ameya_sitoncouch_lab	70
+ameya_sitonground_indoor2	174
+ameya_sitonground_lab	149
+ameya_sitonground_outdoor1	65
+ameya_sitonground_outdoor2	66
+ameya_soccerleft_indoor2	65
+ameya_soccerleft_lab	95
+ameya_soccerleft_outdoor1	78
+ameya_soccerleft_outdoor2	70
+ameya_soccerright_indoor2	62
+ameya_soccerright_lab	91
+ameya_soccerright_outdoor1	79
+ameya_soccerright_outdoor2	61
+ameya_standfromcouch_lab	72
+ameya_standupfromchair_lab	55
+ameya_standupfromground_indoor2	129
+ameya_standupfromground_lab	92
+ameya_standupfromground_outdoor1	69
+ameya_standupfromground_outdoor2	56
+ameya_tabletennis_indoor2	372
+ameya_tabletennis_lab	302
+ameya_tabletennis_outdoor1	228
+ameya_tabletennis_outdoor2	362
+ameya_throwingleft_indoor2	90
+ameya_throwingleft_lab	64
+ameya_throwingleft_outdoor1	67
+ameya_throwingleft_outdoor2	70
+ameya_throwingright_indoor2	104
+ameya_throwingright_lab	90
+ameya_throwingright_outdoor1	69
+ameya_throwingright_outdoor2	59
+ameya_turning_indoor2	514
+ameya_turning_lab	250
+ameya_turning_outdoor1	382
+ameya_turning_outdoor2	217
+ameya_typing_lab	243
+ameya_walking_indoor2	553
+ameya_walking_lab	442
+ameya_walking_outdoor1	296
+ameya_walking_outdoor2	487
+ameya_walking2_indoor2	287
+ameya_walking2_outdoor1	297
+ameya_walking3_indoor2	533
+ameya_waving_indoor2	227
+ameya_waving_lab	214
+ameya_waving_outdoor1	189
+ameya_waving_outdoor2	177
+bin_basketball_indoor2	218
+bin_basketball_lab	149
+bin_basketball_outdoor3	267
+bin_basketball2_lab	134
+bin_basketball2_outdoor3	267
+bin_bending_lab	79
+bin_bending_outdoor3	60
+bin_bowlingleft_indoor2	72
+bin_bowlingleft_outdoor3	84
+bin_bowlingleft2_outdoor3	124
+bin_bowlingright_indoor2	62
+bin_bowlingright_lab	82
+bin_bowlingright_outdoor3	62
+bin_boxing_indoor2	189
+bin_boxing_lab	228
+bin_boxing_outdoor3	235
+bin_clapping_indoor2	250
+bin_clapping_lab	310
+bin_clapping_outdoor3	237
+bin_closebox_lab	146
+bin_closefridge_lab	99
+bin_crouching_indoor2	77
+bin_crouching_lab	191
+bin_crouching_outdoor3	105
+bin_exercise_indoor2	248
+bin_exercise_lab	326
+bin_exercise_outdoor3	311
+bin_hopping_indoor2	252
+bin_hopping_lab	245
+bin_hopping_outdoor3	224
+bin_jogging_indoor2	247
+bin_jogging_lab	358
+bin_jogging_outdoor3	415
+bin_jumping_indoor2	235
+bin_jumping_lab	198
+bin_jumping_outdoor3	250
+bin_kickingleft_indoor2	69
+bin_kickingleft_outdoor3	57
+bin_kickingleft2_outdoor3	71
+bin_kickingright_indoor2	67
+bin_kickingright_outdoor3	95
+bin_kickingright2_outdoor3	95
+bin_kneelingleft_indoor2	83
+bin_kneelingleft_lab	78
+bin_kneelingleft_outdoor3	118
+bin_kneelingright_indoor2	73
+bin_kneelingright_lab	58
+bin_kneelingright_outdoor3	46
+bin_lyingoncouch_lab	149
+bin_movingobject_indoor2	168
+bin_movingobject_outdoor3	189
+bin_openbox_lab	214
+bin_openfridge_lab	90
+bin_openlaptop_lab	187
+bin_pickobjectleft_indoor2	98
+bin_pickobjectleft_lab	96
+bin_pickobjectleft_outdoor3	100
+bin_pickobjectright_indoor2	98
+bin_pickobjectright_lab	97
+bin_pickobjectright_outdoor3	106
+bin_pickupbowl_lab	81
+bin_pushup_indoor2	124
+bin_pushup_lab	198
+bin_pushup_outdoor3	133
+bin_putdownbowl_lab	121
+bin_reading_lab	484
+bin_rollingchair_lab	480
+bin_rotating_indoor2	234
+bin_rotating_lab	284
+bin_rotating_outdoor3	270
+bin_sitonchair_indoor2	65
+bin_sitonchair_lab	85
+bin_sitoncouch_lab	91
+bin_sitonground_indoor2	98
+bin_sitonground_lab	113
+bin_sitonground_outdoor3	95
+bin_soccerleft_indoor2	93
+bin_soccerleft_lab	70
+bin_soccerleft_outdoor3	81
+bin_soccerright_indoor2	81
+bin_soccerright_lab	99
+bin_soccerright_outdoor3	98
+bin_standfromcouch_lab	106
+bin_standupfromchair_indoor2	76
+bin_standupfromchair_lab	97
+bin_standupfromground_indoor2	85
+bin_standupfromground_lab	117
+bin_standupfromground_outdoor3	82
+bin_tabletennis_indoor2	212
+bin_tabletennis_lab	243
+bin_tabletennis_outdoor3	194
+bin_throwingleft_indoor2	92
+bin_throwingleft_lab	79
+bin_throwingleft_outdoor3	103
+bin_throwingright_indoor2	63
+bin_throwingright_lab	85
+bin_throwingright_outdoor3	96
+bin_turning_indoor2	321
+bin_turning_lab	376
+bin_turning_outdoor3	345
+bin_typing_lab	280
+bin_walking_indoor2	314
+bin_walking_lab	440
+bin_walking_outdoor3	349
+bin_waving_indoor2	295
+bin_waving_lab	336
+bin_waving_outdoor3	353
+enric_basketball_indoor2	176
+enric_basketball_lab	191
+enric_basketball_park1	147
+enric_basketball_park2	128
+enric_bending_indoor2	53
+enric_bending_lab	50
+enric_bending_park1	45
+enric_bending_park2	49
+enric_bowlingleft_indoor2	59
+enric_bowlingleft_lab	70
+enric_bowlingleft_park1	44
+enric_bowlingleft_park2	50
+enric_bowlingright_indoor2	73
+enric_bowlingright_lab	63
+enric_bowlingright_park1	53
+enric_bowlingright_park2	49
+enric_bowlingright2_lab	68
+enric_boxing_indoor2	153
+enric_boxing_lab	235
+enric_boxing_park1	218
+enric_boxing_park2	137
+enric_clapping_indoor2	205
+enric_clapping_lab	263
+enric_clapping_park1	239
+enric_clapping_park2	176
+enric_closebox_indoor2	227
+enric_closebox_lab	149
+enric_Closelaptop_lab	76
+enric_crouching_indoor2	83
+enric_crouching_lab	62
+enric_crouching_park1	51
+enric_crouching_park2	51
+enric_exercise_indoor2	293
+enric_exercise_lab	231
+enric_exercise_park1	242
+enric_exercise_park2	237
+enric_jogging_indoor2	153
+enric_jogging_lab	183
+enric_jogging_park1	217
+enric_jogging_park2	184
+enric_jumping_indoor2	148
+enric_jumping_lab	167
+enric_jumping_park1	164
+enric_jumping_park2	143
+enric_kickingleft_indoor2	46
+enric_kickingleft_lab	76
+enric_kickingleft_park1	55
+enric_kickingleft_park2	48
+enric_kickingright_indoor2	47
+enric_kickingright_lab	60
+enric_kickingright_park1	47
+enric_kickingright_park2	48
+enric_kneelingleft_indoor2	78
+enric_kneelingleft_lab	62
+enric_kneelingleft_park1	73
+enric_kneelingleft_park2	58
+enric_kneelingright_indoor2	78
+enric_kneelingright_lab	72
+enric_kneelingright_park1	46
+enric_kneelingright_park2	56
+enric_movingobject_indoor2	98
+enric_movingobject_lab	98
+enric_movingobject_park1	94
+enric_movingobject_park2	393
+enric_openbox_indoor2	99
+enric_openbox_lab	132
+enric_openbox2_lab	80
+enric_openlaptop_lab	84
+enric_pickobjectleft_indoor2	74
+enric_pickobjectleft_lab	85
+enric_pickobjectleft_park1	81
+enric_pickobjectleft_park2	81
+enric_pickobjectright_indoor2	87
+enric_pickobjectright_lab	93
+enric_pickobjectright_park1	78
+enric_pickobjectright_park2	79
+enric_pickupbowl_indoor2	101
+enric_pickupbowl_lab	100
+enric_pushup_indoor2	318
+enric_pushup_lab	349
+enric_pushup_park1	191
+enric_pushup_park2	181
+enric_putdownbowl_indoor2	80
+enric_putdownbowl_lab	93
+enric_reading_indoor2	248
+enric_reading_lab	274
+enric_rollingchair_lab	153
+enric_rotating_indoor2	228
+enric_rotating_lab	232
+enric_rotating_park1	119
+enric_rotating_park2	194
+enric_rotating2_park1	137
+enric_sitonchair_indoor2	70
+enric_sitonchair_lab	65
+enric_sitonground_indoor2	47
+enric_sitonground_lab	81
+enric_sitonground_park1	80
+enric_sitonground_park2	73
+enric_sitonground2_lab	97
+enric_soccerleft_indoor2	52
+enric_soccerleft_lab	54
+enric_soccerright_indoor2	39
+enric_soccerright_lab	44
+enric_standupfromchair_indoor2	55
+enric_standupfromchair_lab	63
+enric_standupfromground_indoor2	77
+enric_standupfromground_lab	105
+enric_standupfromground_park1	71
+enric_standupfromground_park2	67
+enric_Standupfromground2_lab	81
+enric_tabletennis_indoor2	178
+enric_tabletennis_lab	186
+enric_tabletennis_park1	144
+enric_tabletennis_park2	165
+enric_throwingleft_indoor2	54
+enric_throwingleft_lab	75
+enric_throwingleft_park1	60
+enric_throwingleft_park2	46
+enric_throwingright_indoor2	67
+enric_throwingright_lab	71
+enric_throwingright_park1	54
+enric_throwingright_park2	57
+enric_turning_indoor2	196
+enric_turning_lab	311
+enric_turning_park1	280
+enric_turning_park2	220
+enric_Typing_lab	226
+enric_walking_indoor2	183
+enric_walking_lab	259
+enric_walking_park1	292
+enric_walking_park2	264
+enric_waving_indoor2	179
+enric_waving_lab	213
+enric_waving_park1	230
+enric_waving_park2	192
+enric_waving2_indoor2	203
+jianxiong_basketball_outdoor4	195
+jianxiong_basketball_park1	133
+jianxiong_basketball_park2	164
+jianxiong_bending_lab	116
+jianxiong_bending_outdoor3	91
+jianxiong_bending_park1	77
+jianxiong_bending_park2	69
+jianxiong_bowlingleft_park2	81
+jianxiong_bowlingright_lab	111
+jianxiong_bowlingright_outdoor4	99
+jianxiong_bowlingright_park1	61
+jianxiong_bowlingright_park2	66
+jianxiong_boxing_lab	383
+jianxiong_boxing_outdoor3	231
+jianxiong_boxing_outdoor4	288
+jianxiong_boxing_park1	204
+jianxiong_Boxing_park2	232
+jianxiong_clapping_lab	233
+jianxiong_clapping_outdoor3	144
+jianxiong_clapping_outdoor4	195
+jianxiong_clapping_park1	159
+jianxiong_clapping_park2	173
+jianxiong_closebox_lab	124
+jianxiong_closelaptop_lab	77
+jianxiong_crouching_lab	108
+jianxiong_crouching_outdoor3	106
+jianxiong_crouching_outdoor4	115
+jianxiong_crouching_park1	104
+jianxiong_crouching_park2	81
+jianxiong_exercise_lab	239
+jianxiong_exercise_outdoor3	235
+jianxiong_exercise_outdoor4	238
+jianxiong_exercise_park1	271
+jianxiong_exercise_park2	182
+jianxiong_hopping_lab	260
+jianxiong_hopping_outdoor3	203
+jianxiong_hopping_outdoor4	214
+jianxiong_hopping_park1	202
+jianxiong_hopping_park2	190
+jianxiong_jogging_lab	410
+jianxiong_jogging_outdoor4	316
+jianxiong_jogging_park1	305
+jianxiong_jogging_park2	263
+jianxiong_jumping_lab	211
+jianxiong_jumping_outdoor3	146
+jianxiong_jumping_outdoor4	219
+jianxiong_jumping_park1	186
+jianxiong_jumping_park2	160
+jianxiong_kickingleft_park1	78
+jianxiong_kickingleft_park2	90
+jianxiong_kickingright_park1	59
+jianxiong_kickingright_park2	82
+jianxiong_kneelingleft_lab	95
+jianxiong_kneelingleft_outdoor4	122
+jianxiong_kneelingleft_park1	114
+jianxiong_kneelingleft_park2	75
+jianxiong_kneelingright_lab	91
+jianxiong_kneelingright_outdoor4	103
+jianxiong_Kneelingright_park1	73
+jianxiong_Kneelingright_park2	78
+jianxiong_lyingoncouch_lab	152
+jianxiong_movingobject_lab	158
+jianxiong_movingobject_outdoor4	155
+jianxiong_movingobject_park1	179
+jianxiong_movingobject_park2	124
+jianxiong_openbox_lab	114
+jianxiong_openlaptop_lab	97
+jianxiong_pickobjectleft_lab	126
+jianxiong_pickobjectleft_outdoor3	100
+jianxiong_pickobjectleft_outdoor4	178
+jianxiong_pickobjectleft_park1	103
+jianxiong_pickobjectleft_park2	97
+jianxiong_pickobjectright_lab	114
+jianxiong_pickobjectright_outdoor3	93
+jianxiong_pickobjectright_outdoor4	129
+jianxiong_pickobjectright_park1	95
+jianxiong_pickobjectright_park2	80
+jianxiong_pickupbowl_lab	41
+jianxiong_pushup_lab	391
+jianxiong_pushup_outdoor4	411
+jianxiong_pushup_park1	297
+jianxiong_pushup_park2	207
+jianxiong_putdownbowl_lab	92
+jianxiong_reading_lab	468
+jianxiong_rollingchair_lab	508
+jianxiong_rotating_lab	272
+jianxiong_rotating_outdoor3	237
+jianxiong_rotating_outdoor4	301
+jianxiong_rotating_park1	251
+jianxiong_rotating_park2	236
+jianxiong_sitonchair_lab	87
+jianxiong_sitoncouch_lab	57
+jianxiong_sitonground_lab	125
+jianxiong_sitonground_outdoor3	104
+jianxiong_sitonground_outdoor4	168
+jianxiong_sitonground_park1	94
+jianxiong_sitonground_park2	103
+jianxiong_soccerleft_lab	109
+jianxiong_soccerleft_outdoor4	105
+jianxiong_soccerright_lab	80
+jianxiong_soccerright_outdoor4	94
+jianxiong_standfromcouch_lab	70
+jianxiong_standupfromchair_lab	80
+jianxiong_standupfromground_lab	111
+jianxiong_standupfromground_outdoor3	86
+jianxiong_standupfromground_outdoor4	105
+jianxiong_standupfromground_park1	73
+jianxiong_standupfromground_park2	64
+jianxiong_tabletennis_lab	257
+jianxiong_tabletennis_outdoor4	204
+jianxiong_tabletennis_park1	219
+jianxiong_tabletennis_park2	232
+jianxiong_throwingleft_lab	102
+jianxiong_throwingleft_outdoor3	89
+jianxiong_throwingleft_outdoor4	110
+jianxiong_throwingleft_park1	85
+jianxiong_throwingleft_park2	55
+jianxiong_throwingright_lab	96
+jianxiong_throwingright_outdoor3	83
+jianxiong_throwingright_outdoor4	100
+jianxiong_throwingright_park1	65
+jianxiong_throwingright_park2	61
+jianxiong_turning_lab	219
+jianxiong_turning_outdoor3	234
+jianxiong_turning_outdoor4	327
+jianxiong_turning_park1	267
+jianxiong_turning_park2	212
+jianxiong_typing_lab	170
+jianxiong_walking_lab	532
+jianxiong_walking_outdoor3	279
+jianxiong_walking_outdoor4	255
+jianxiong_walking_park2	245
+jianxiong_waving_lab	283
+jianxiong_waving_outdoor3	227
+jianxiong_waving_outdoor4	258
+jianxiong_waving_park1	177
+jianxiong_waving_park2	163
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
